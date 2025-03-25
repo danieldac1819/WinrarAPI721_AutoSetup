@@ -20,4 +20,5 @@ WinrarAPI721_AutoSetup.exe /autosetup
 
 
 :: truy cập vào facepage của chúng tôi để được hổ trợ cũng như tải xuống phiên bản mới nhất.
+
 :: WinrarAPI721_AutoSetup.exe /help
