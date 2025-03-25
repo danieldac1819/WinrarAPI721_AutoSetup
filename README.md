@@ -17,5 +17,7 @@ WinrarAPI721_AutoSetup.exe /autosetup
 
 :: Cài đặt auto setup với phiên bản 64-bit
 :: WinrarAPI721_AutoSetup.exe /autosetup 64
+
+
 :: truy cập vào facepage của chúng tôi để được hổ trợ cũng như tải xuống phiên bản mới nhất.
 :: WinrarAPI721_AutoSetup.exe /help
