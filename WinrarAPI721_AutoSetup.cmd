@@ -1,4 +1,4 @@
-WinrarAPI721_AutoSetup.exe /autosetup
+WinrarAPI721_AutoSetup.exe /autosetup 32
 
 
 :: Cài đặt auto setup với thiết lập mặc định
